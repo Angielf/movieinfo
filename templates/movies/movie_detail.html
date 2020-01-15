@@ -118,7 +118,7 @@
             </h3>
             <p>
                 {% for image in movie.movieshots_set.all %}
-                    <img src="{{ image.image.url }}" class="img-movie-shots "
+                    <img src="{{ image.image.url }}" class="img-movie-shots img-fluid "
                          alt="{{ image.description }}">
                 {% endfor %}
             </p>
