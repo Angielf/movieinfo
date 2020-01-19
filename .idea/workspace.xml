@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="16bdb487-d54e-4a6f-ad53-0fe1e39c22b3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/movie_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/movie_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/movie_project/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movies/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movies/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/movies/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/movies/movie_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/movies/movie_detail.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,13 +42,14 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/static/images" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/templates" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images" />
       <recent name="$PROJECT_DIR$/static/fonts" />
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/static/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -92,10 +91,14 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="517" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1579080600170">
+    <state x="570" y="166" key="RollbackChangesDialog" timestamp="1579291272934">
       <screen x="0" y="23" width="1680" height="851" />
     </state>
-    <state x="517" y="281" key="com.intellij.ide.util.TipDialog/0.23.1680.851@0.23.1680.851" timestamp="1579080600170" />
+    <state x="570" y="166" key="RollbackChangesDialog/0.23.1680.851@0.23.1680.851" timestamp="1579291272934" />
+    <state x="517" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1579459126382">
+      <screen x="0" y="23" width="1680" height="851" />
+    </state>
+    <state x="517" y="281" key="com.intellij.ide.util.TipDialog/0.23.1680.851@0.23.1680.851" timestamp="1579459126382" />
     <state x="504" y="198" width="670" height="676" key="search.everywhere.popup" timestamp="1579087441351">
       <screen x="0" y="23" width="1680" height="851" />
     </state>

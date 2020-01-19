@@ -123,7 +123,7 @@
                 {% endfor %}
             </p>
             <p class="editContent">
-                {{ movie.description }}
+                {{ movie.description|safe }}
             </p>
 
 
@@ -153,7 +153,7 @@
                         <div class="d-sm-flex">
                             <div class="col-sm-6 form-group p-0 editContent">
                                 <label for="contactusername" class="editContent">
-                                    Имя *
+                                    Name *
                                 </label>
                                 <input type="text" class="form-control border" name="name"
                                        id="contactusername" required="">
